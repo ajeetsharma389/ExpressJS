@@ -16,6 +16,6 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    npm install
+    npm i
     npm start
   displayName: 'npm install and build'
