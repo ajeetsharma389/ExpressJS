@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'expressjsaj'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bd20e6f7b219481ba59bc9158f8bc263 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5082888967bd48eb9d17e575026637dc }}
         package: .
